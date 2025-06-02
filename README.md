@@ -1,6 +1,6 @@
 # QuickAssit : Simple Chatbot with Ollama
 
-A conversational AI model built using OLLAMA, LangChain, and Streamlit.
+A conversational AI model built using OLLAMA (llama3.2), LangChain, and Streamlit.
 
 ## Introduction
 QuickAssit is a conversational AI model designed to provide helpful and informative responses. This project utilizes OLLAMA, LangChain, and Streamlit to create an interactive interface.
