@@ -10,3 +10,9 @@ QuickAssit is a conversational AI model designed to provide helpful and informat
 2. Put LANGCHAIN key, project name in key.json file.
 3. Install dependencies: pip install -r requirements.txt
 4. Run the application: streamlit run app.py
+
+## APP Screenshot
+
+![Alt text](https://raw.githubusercontent.com/Aaryaman09/Simple_chatbot_with_Ollama/refs/heads/main/app_screenshots/app_screenshot.png)
+
+
